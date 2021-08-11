@@ -1,5 +1,4 @@
 # Ship-Truck-Binary-Classifier
-# ClassifyBea
 
 ## Introduction :eyes:
 
